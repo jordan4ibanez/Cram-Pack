@@ -8,4 +8,4 @@ Hey keep a look out on this crazy thing because who knows what's going to happen
 
 Here's all the mod links in case you want to study up! __(Hint: You're going to need to!)__
 
-_[Mobs Redo](https://forum.minetest.net/viewtopic.php?t=9917)_
+__[Mobs Redo](https://forum.minetest.net/viewtopic.php?t=9917)__: A majority (if not all) of the mobs you'll come across.
