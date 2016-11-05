@@ -56,3 +56,19 @@ __[Hunger](https://forum.minetest.net/viewtopic.php?f=11&t=11336)__: Adds in sat
 
 __[Player Animation](https://forum.minetest.net/viewtopic.php?t=12189)__: Adds animation to player's head!
 
+__[Dense Ores](https://forum.minetest.net/viewtopic.php?f=11&t=10373)__: Adds in dense ores!
+
+__[Lucky Block](https://forum.minetest.net/viewtopic.php?f=11&t=13284)__: Adds in a lucky block!
+
+__[Colored Clay](https://forum.minetest.net/viewtopic.php?f=11&t=15651)__: Colored clay!
+
+__[Ambience](https://forum.minetest.net/viewtopic.php?f=11&t=2807)__: Adds in ambient noises.
+
+__[Digilines](https://forum.minetest.net/viewtopic.php?f=11&t=5263)__: Adds in luacontrollers (microcontroller).
+
+__[Climbable Leaves](https://forum.minetest.net/viewtopic.php?f=11&t=15679)__: Makes all leaves climbable.
+
+__[Travelnet](https://forum.minetest.net/viewtopic.php?t=4877)__: Adds in teleporters!
+
+
+
