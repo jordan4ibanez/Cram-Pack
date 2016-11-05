@@ -83,3 +83,10 @@ __[Vehicles](https://forum.minetest.net/viewtopic.php?f=9&t=15610)__: Adds in a 
 __[Orienteering](https://forum.minetest.net/viewtopic.php?f=9&t=15247)__: Adds in tools to navigate.
 
 __[Jukebox](https://forum.minetest.net/viewtopic.php?f=9&t=9485)__: Adds in jukebox with disks!
+
+__[Hooks](https://forum.minetest.net/viewtopic.php?f=9&t=13634)__: Survival equipment!
+
+__[Mines](https://forum.minetest.net/viewtopic.php?id=6307)__: Abandoned mineshafts!
+
+
+
