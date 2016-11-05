@@ -88,6 +88,10 @@ __[Hooks](https://forum.minetest.net/viewtopic.php?f=9&t=13634)__: Survival equi
 
 __[Mines](https://forum.minetest.net/viewtopic.php?id=6307)__: Abandoned mineshafts!
 
+__[Awards](https://forum.minetest.net/viewtopic.php?t=4870)__: Awards for doing things.
+
+__[Pie](https://forum.minetest.net/viewtopic.php?f=11&t=13285)__: Pie!
+
 
 
 
