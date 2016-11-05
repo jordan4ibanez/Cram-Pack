@@ -54,3 +54,5 @@ __[Armor Hud](https://forum.minetest.net/viewtopic.php?f=9&t=11337)__: A gui for
 
 __[Hunger](https://forum.minetest.net/viewtopic.php?f=11&t=11336)__: Adds in satian to game.
 
+__[Player Animation](https://forum.minetest.net/viewtopic.php?t=12189)__: Adds animation to player's head!
+
