@@ -30,8 +30,6 @@ __[Mydoors](https://forum.minetest.net/viewtopic.php?f=11&t=10626)__: Adds in a 
 
 __[Unified Inventory](https://forum.minetest.net/viewtopic.php?t=3933)__: Adds in modular stylistic gui!
 
-__[Jukebox](https://forum.minetest.net/viewtopic.php?f=11&t=13505)__: Adds in a juke box.
-
 __[Technic](https://forum.minetest.net/viewtopic.php?f=11&t=2538)__: Adds industrialism.
 
 __[More Blocks](https://forum.minetest.net/viewtopic.php?f=11&t=509)__: Adds in a lot of blocks!
@@ -84,3 +82,4 @@ __[Vehicles](https://forum.minetest.net/viewtopic.php?f=9&t=15610)__: Adds in a 
 
 __[Orienteering](https://forum.minetest.net/viewtopic.php?f=9&t=15247)__: Adds in tools to navigate.
 
+__[Jukebox](https://forum.minetest.net/viewtopic.php?f=9&t=9485)__: Adds in jukebox with disks!
