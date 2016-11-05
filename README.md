@@ -41,3 +41,16 @@ __[Pipeworks](https://forum.minetest.net/viewtopic.php?f=11&t=2155)__: Adds in p
 __[More Ores](https://forum.minetest.net/viewtopic.php?id=549)__: Adds in five ores into the game.
 
 __[Mesecons](https://forum.minetest.net/viewtopic.php?f=11&t=628)__: Adds in wiring and block logic!
+
+__[Vignette](https://forum.minetest.net/viewtopic.php?t=14903)__: Adds in vignette.
+
+__[3d Armor](https://forum.minetest.net/viewtopic.php?t=4654)__: Adds in 3d armor!
+
+__[Hud Bars](https://forum.minetest.net/viewtopic.php?f=11&t=11153)__: An api for gui hud items.
+
+__[Sprint](https://forum.minetest.net/viewtopic.php?f=11&t=9650)__: Adds in running!
+
+__[Armor Hud](https://forum.minetest.net/viewtopic.php?f=9&t=11337)__: A gui for armor.
+
+__[Hunger](https://forum.minetest.net/viewtopic.php?f=11&t=11336)__: Adds in satian to game.
+
