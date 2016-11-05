@@ -70,5 +70,17 @@ __[Climbable Leaves](https://forum.minetest.net/viewtopic.php?f=11&t=15679)__: M
 
 __[Travelnet](https://forum.minetest.net/viewtopic.php?t=4877)__: Adds in teleporters!
 
+__[Torches](https://forum.minetest.net/viewtopic.php?f=11&t=14359)__: 3D torches!
 
+__[Campfire](https://forum.minetest.net/viewtopic.php?f=11&t=10569)__: Adds in campfire and sleeping mat.
+
+__[Signs Library](https://forum.minetest.net/viewtopic.php?t=13762)__: Adds in 3d signs with physical text!
+
+__[Block Suffocation](https://forum.minetest.net/viewtopic.php?f=11&t=15304)__: Makes you suffocate inside nodes.
+
+__[Bedrock](https://forum.minetest.net/viewtopic.php?f=11&t=11271)__: Adds in bedrock to the bottom of the world!
+
+__[Vehicles](https://forum.minetest.net/viewtopic.php?f=9&t=15610)__: Adds in a lot of vehicles!
+
+__[Orienteering](https://forum.minetest.net/viewtopic.php?f=9&t=15247)__: Adds in tools to navigate.
 
