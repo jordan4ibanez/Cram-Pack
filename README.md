@@ -94,5 +94,5 @@ __[Weather](https://forum.minetest.net/viewtopic.php?f=9&t=14539)__: Weather!
 
 __[Lightning](https://github.com/minetest-mods/lightning)__: Scary!
 
-
+__[Item Drop](https://github.com/jordan4ibanez/item_drop)__: There's items everywhere!
 
