@@ -88,8 +88,6 @@ __[Awards](https://forum.minetest.net/viewtopic.php?t=4870)__: Awards for doing 
 
 __[Pie](https://forum.minetest.net/viewtopic.php?f=11&t=13285)__: Pie!
 
-__[Weather](https://forum.minetest.net/viewtopic.php?f=9&t=14539)__: Weather!
-
 __[Lightning](https://github.com/minetest-mods/lightning)__: Scary!
 
 __[Item Drop](https://github.com/jordan4ibanez/item_drop)__: There's items everywhere!
@@ -119,4 +117,13 @@ __[Death Messages](https://forum.minetest.net/viewtopic.php?f=11&t=8821)__: Tell
 __[Unified Dyes](https://forum.minetest.net/viewtopic.php?pid=28399)__: More dyes!
 
 __[Colored Woods](https://forum.minetest.net/viewtopic.php?pid=32039)__: Colored wood!
+
+__[No Sneak Glitch](https://forum.minetest.net/viewtopic.php?f=11&t=10424)__: Disables the sneak glitch!
+
+__[Fishing](https://github.com/MinetestForFun/fishing)__: Adds in fishing!
+
+__[More Creeps And Weirdos](https://forum.minetest.net/viewtopic.php?f=9&t=15822)__: Zany creatures!
+
+__[Mymonths](https://forum.minetest.net/viewtopic.php?f=9&t=13639)__: A whole bunch of changes to weather, months, holidays, day time, etc!
+
 
