@@ -317,8 +317,8 @@ minetest.register_abm({
 	label = "Leaf decay",
 	nodenames = {"group:leafdecay"},
 	neighbors = {"air"},
-	interval = 2,
-	chance = 10,
+	interval = 1,
+	chance = 3,
 	catch_up = false,
 
 	action = function(pos, node, _, _)
