@@ -116,7 +116,7 @@ __[Compost Bin](https://forum.minetest.net/viewtopic.php?f=11&t=14561)__: Let's 
 
 __[Death Messages](https://forum.minetest.net/viewtopic.php?f=11&t=8821)__: Tells everyone you died!
 
+__[Unified Dyes](https://forum.minetest.net/viewtopic.php?pid=28399)__: More dyes!
 
-
-
+__[Colored Woods](https://forum.minetest.net/viewtopic.php?pid=32039)__: Colored wood!
 
