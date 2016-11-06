@@ -100,7 +100,9 @@ __[More Plants](https://forum.minetest.net/viewtopic.php?f=9&t=14470)__: Adds mo
 
 __[Real Clocks](https://forum.minetest.net/viewtopic.php?t=11385)__: Analog clocks!
 
+__[Lapis Lazuli](https://forum.minetest.net/viewtopic.php?t=11287)__: Adds in lapis!
 
+__[Simply Slopes](https://forum.minetest.net/viewtopic.php?f=11&t=13555)__: Craftable slopes you can use with your house!
 
 
 

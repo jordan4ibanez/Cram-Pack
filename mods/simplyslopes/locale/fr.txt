@@ -1,0 +1,11 @@
+# Lines beginning with a pound sign are comments and are effectively ignored
+# by the reader. Note that comments only span until the end of the line;
+# there's no support for multiline comments.
+Blank lines not containing an equals sign are also ignored.
+Hello, World! = Bonjour, Monde!
+String with\nnewlines and \ttabs = Des chaines de caractères avec\ndes sauts de lignes \tdes tabulations
+String with an \= equals sign = Des chaines de caractères un \= signe égual
+Slope = Pente
+Stone Slope = Pente de pierre
+Stone Inner Slope Corner = Pente de pierre interieure
+Stone Outer Slope Corner = Pente de pierre exterieure
