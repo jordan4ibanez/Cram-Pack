@@ -26,8 +26,6 @@ __[Xdecor](https://forum.minetest.net/viewtopic.php?f=11&t=12534)__: Adds in dec
 
 __[Mydoors](https://forum.minetest.net/viewtopic.php?f=11&t=10626)__: Adds in a lot of doors.
 
-__[Unified Inventory](https://forum.minetest.net/viewtopic.php?t=3933)__: Adds in modular stylistic gui!
-
 __[Technic](https://forum.minetest.net/viewtopic.php?f=11&t=2538)__: Adds industrialism.
 
 __[More Blocks](https://forum.minetest.net/viewtopic.php?f=11&t=509)__: Adds in a lot of blocks!
@@ -103,6 +101,10 @@ __[Real Clocks](https://forum.minetest.net/viewtopic.php?t=11385)__: Analog cloc
 __[Lapis Lazuli](https://forum.minetest.net/viewtopic.php?t=11287)__: Adds in lapis!
 
 __[Simply Slopes](https://forum.minetest.net/viewtopic.php?f=11&t=13555)__: Craftable slopes you can use with your house!
+
+__[Furniture](https://forum.minetest.net/viewtopic.php?f=11&t=14910)__: Adds in furniture! Hold shift to sit!
+
+__[Unified Inventory](https://forum.minetest.net/viewtopic.php?t=12767)__: The best inventory there is!
 
 
 
