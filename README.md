@@ -108,6 +108,12 @@ __[Unified Inventory](https://forum.minetest.net/viewtopic.php?t=12767)__: The b
 
 __[Datastorage](https://github.com/minetest-technic/datastorage)__: Added to allow waypoins in Unified Inventory!
 
+__[Home Decor](https://forum.minetest.net/viewtopic.php?pid=26061)__: An awesome modpack which adds in tons of things you can add to your home!
+
+__[Caches](https://forum.minetest.net/viewtopic.php?f=11&t=14425)__: Adds in item sorting chests to technic!
+
+__[Compost Bin](https://forum.minetest.net/viewtopic.php?f=11&t=14561)__: Let's you turn organic stuff into soil!
+
 
 
 
