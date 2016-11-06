@@ -96,3 +96,5 @@ __[Lightning](https://github.com/minetest-mods/lightning)__: Scary!
 
 __[Item Drop](https://github.com/jordan4ibanez/item_drop)__: There's items everywhere!
 
+__[More Plants](https://forum.minetest.net/viewtopic.php?f=9&t=14470)__: Adds more plants!
+
