@@ -114,6 +114,8 @@ __[Caches](https://forum.minetest.net/viewtopic.php?f=11&t=14425)__: Adds in ite
 
 __[Compost Bin](https://forum.minetest.net/viewtopic.php?f=11&t=14561)__: Let's you turn organic stuff into soil!
 
+__[Death Messages](https://forum.minetest.net/viewtopic.php?f=11&t=8821)__: Tells everyone you died!
+
 
 
 
