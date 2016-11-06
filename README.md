@@ -14,8 +14,6 @@ __[Farming](https://forum.minetest.net/viewtopic.php?t=9019)__: A rewrite of the
 
 __[Food](https://forum.minetest.net/viewtopic.php?f=11&t=2960)__: Additional food!
 
-__[Diet](https://forum.minetest.net/viewtopic.php?id=9051)__: Makes you want different types of food!
-
 __[Sweets](https://forum.minetest.net/viewtopic.php?id=9039)__: Adds in sweet foods.
 
 __[Darkage](https://forum.minetest.net/viewtopic.php?f=11&t=3213)__: Adds in pre industrial nodes.
