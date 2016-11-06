@@ -98,3 +98,11 @@ __[Item Drop](https://github.com/jordan4ibanez/item_drop)__: There's items every
 
 __[More Plants](https://forum.minetest.net/viewtopic.php?f=9&t=14470)__: Adds more plants!
 
+__[Real Clocks](https://forum.minetest.net/viewtopic.php?t=11385)__: Analog clocks!
+
+
+
+
+
+
+
