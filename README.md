@@ -90,7 +90,9 @@ __[Awards](https://forum.minetest.net/viewtopic.php?t=4870)__: Awards for doing 
 
 __[Pie](https://forum.minetest.net/viewtopic.php?f=11&t=13285)__: Pie!
 
+__[Weather](https://forum.minetest.net/viewtopic.php?f=9&t=14539)__: Weather!
 
+__[Lightning](https://github.com/minetest-mods/lightning)__: Scary!
 
 
 
