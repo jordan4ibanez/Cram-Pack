@@ -106,6 +106,8 @@ __[Furniture](https://forum.minetest.net/viewtopic.php?f=11&t=14910)__: Adds in 
 
 __[Unified Inventory](https://forum.minetest.net/viewtopic.php?t=12767)__: The best inventory there is!
 
+__[Datastorage](https://github.com/minetest-technic/datastorage)__: Added to allow waypoins in Unified Inventory!
+
 
 
 
