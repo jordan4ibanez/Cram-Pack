@@ -263,8 +263,6 @@ minetest.register_globalstep(function(dtime)
 		elseif nodein.name == "mymonths:snow_cover_5" then
 
 			player:set_physics_override(0.35, 1, 1, true, false)
-		else
-			player:set_physics_override(1, 1, 1, true, false)
 		end
 
 		-- checks if there is any weather

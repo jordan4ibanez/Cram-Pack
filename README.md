@@ -126,4 +126,6 @@ __[More Creeps And Weirdos](https://forum.minetest.net/viewtopic.php?f=9&t=15822
 
 __[Mymonths](https://forum.minetest.net/viewtopic.php?f=9&t=13639)__: A whole bunch of changes to weather, months, holidays, day time, etc!
 
+__[Xtraores](https://forum.minetest.net/viewtopic.php?f=11&t=12798)__: Adds in ores, tools, and items!
+
 
