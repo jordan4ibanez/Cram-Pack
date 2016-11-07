@@ -16,7 +16,7 @@ __[Food](https://forum.minetest.net/viewtopic.php?f=11&t=2960)__: Additional foo
 
 __[Sweets](https://forum.minetest.net/viewtopic.php?id=9039)__: Adds in sweet foods.
 
-__[Darkage](https://forum.minetest.net/viewtopic.php?f=11&t=3213)__: Adds in pre industrial nodes.
+__[Darkage](https://forum.minetest.net/viewtopic.php?id=10063)__: Adds in pre industrial nodes.
 
 __[Portal Gun](https://forum.minetest.net/viewtopic.php?f=9&t=12772)__: Adds in stuff from portal!
 
