@@ -6,6 +6,20 @@ This is a subgame for [Minetest](http://www.minetest.net/) which you'll probably
 
 Hey keep a look out on this crazy thing because who knows what's going to happen!
 
+Recommended PC specs: Dual Core, Video card with 1GB ram, and 4GB System ram
+
+Recommended keymap: E to inventory, R to use, I to full range
+
+Recommended Settings:
+-Smooth Lighting
+-Particles
+-3D Clouds
+-Connected Glass
+-Mipmap
+-Tone Mapping
+-Waving Water, Leaves, and Plants
+
+
 Here's all the mod links in case you want to study up! __(Hint: You're going to need to!)__
 
 __[Mobs Redo](https://forum.minetest.net/viewtopic.php?t=9917)__: A majority (if not all) of the mobs you'll come across.
