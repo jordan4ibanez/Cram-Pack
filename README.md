@@ -128,4 +128,22 @@ __[Mymonths](https://forum.minetest.net/viewtopic.php?f=9&t=13639)__: A whole bu
 
 __[Xtraores](https://forum.minetest.net/viewtopic.php?f=11&t=12798)__: Adds in ores, tools, and items!
 
+__[Quartz](https://forum.minetest.net/viewtopic.php?t=5682)__: Adds in quartz.
+
+__[Books](https://forum.minetest.net/viewtopic.php?f=9&t=15214)__: Makes default book placeable!
+
+__[Zombies](https://forum.minetest.net/viewtopic.php?f=9&t=14934)__: Adds in four types of zombies!
+
+__[Ores Plus Extended](https://forum.minetest.net/viewtopic.php?f=9&t=14581)__: More ores and stuff!
+
+__[Bandage](https://forum.minetest.net/viewtopic.php?f=9&t=14941)__: A bandage!
+
+__[Grenade](https://forum.minetest.net/viewtopic.php?f=9&t=15273)__: Coal grenade mod! (Heavily modified)
+
+
+
+
+
+
+
 

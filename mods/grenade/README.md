@@ -1,0 +1,3 @@
+# grenade
+
+WTFPL
